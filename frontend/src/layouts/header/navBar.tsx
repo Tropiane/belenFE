@@ -68,7 +68,7 @@ function NavBar({ isFooter }: { isFooter: boolean }) {
             ${
               isActive
                 ? "bg-blue-100 text-nexo-accent"
-                : "text-gray-400 text-3xl hover:text-nexo-mint hover:bg-gray-100"
+                : "text-gray-700 text-3xl hover:text-nexo-deep hover:bg-gray-100"
             }
             `
           }

@@ -5,8 +5,9 @@
   --color-nexo-background: #E8C1C5;
   --color-nexo-neutral: #D4CCC7;
   --color-nexo-primary: #A4C3B2;
-  --color-nexo-mint: #8BCFAD;
+  --color-nexo-deep: #4F6F64;
 }
+
 .fontNav {
   font-family: "Lato", sans-serif;
   font-weight: 400;

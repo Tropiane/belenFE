@@ -229,7 +229,7 @@ return (
     </div>
     <Link
   to={`/view-ticket/${data.formId}`}
-  className="text-nexo-mint text-2xl font-bold text-center border border-gray-300 p-2 rounded-full hover:bg-gray-100"
+  className="text-nexo-deep text-2xl font-bold text-center border border-gray-300 p-2 rounded-full hover:bg-gray-100"
 >
   ver
 </Link>

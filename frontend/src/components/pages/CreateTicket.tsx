@@ -219,7 +219,7 @@ export const CreateTicket = () => {
           <div className="flex justify-end pt-4">
             <button
               type="submit"
-              className="px-6 py-2.5 rounded-xl bg-nexo-mint hover:bg-green-600 text-white text-sm font-medium transition"
+              className="px-6 py-2.5 rounded-xl bg-nexo-deep hover:bg-green-600 text-white text-sm font-medium transition"
             >
               Crear ticket
             </button>

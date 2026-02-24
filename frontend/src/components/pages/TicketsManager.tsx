@@ -42,7 +42,7 @@ export const TicketsManager = () => {
       <details className="group bg-nexo-neutral rounded-2xl">
         <summary className="cursor-pointer select-none flex justify-between items-center px-6 py-4 text-xl font-semibold text-green-600">
           <span>En curso</span>
-          <span className="text-sm bg-green-100 text-nexo-mint px-3 py-1 rounded-full">
+          <span className="text-sm bg-green-100 text-nexo-deep px-3 py-1 rounded-full">
             {inProgressTickets.length}
           </span>
         </summary>

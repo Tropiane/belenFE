@@ -211,7 +211,7 @@ export const ViewTicket = () => {
           <div className="flex gap-4">
             <button
               onClick={submitComment}
-              className="bg-nexo-mint text-white px-4 py-2 rounded-lg w-1/2"
+              className="bg-nexo-deep text-white px-4 py-2 rounded-lg w-1/2"
             >
               Agregar comentario
             </button>

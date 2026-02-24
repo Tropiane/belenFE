@@ -30,7 +30,7 @@ export const Section = () => {
           Panel de administración
         </span>
         <h1 className="text-lg font-semibold text-gray-800">
-          Hola, <span className="text-nexo-accent">{user?.name || "No logueado"}</span>
+          Hola, <span className="text-nexo-deep">{user?.name || "No logueado"}</span>
         </h1>
       </div>
 
