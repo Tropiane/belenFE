@@ -166,6 +166,16 @@ export const ViewTicket = () => {
           </div>
         </div>
 
+        {/* Enlaces */}
+        <div>
+          <p className="text-xs text-gray-500">Enlaces adjuntos</p>
+          <div className=" flex flex-row gap-2 bg-nexo-background rounded-xl p-4 text-sm">
+            <p className="text-gray-500">{selectedTicket.linkName}:</p>
+            <a href={selectedTicket.linkUrl} target="_blank" className="text-blue-600 font-bold">{selectedTicket.linkUrl}</a>
+          </div>
+            
+        </div>
+
         {/* Comentarios */}
         <div className="space-y-3">
           <p className="text-xs text-gray-500">Comentarios</p>
